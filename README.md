@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I codes for a living, but live for peddling
